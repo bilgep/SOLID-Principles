@@ -51,6 +51,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Info.txt" />
+    <Content Include="ocp.JPG" />
   </ItemGroup>
   <ItemGroup>
     <None Include="ClassDiagramForOCP.cd" />

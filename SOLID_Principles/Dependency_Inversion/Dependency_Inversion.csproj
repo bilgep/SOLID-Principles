@@ -52,6 +52,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="dip.JPG" />
     <Content Include="Info.txt" />
   </ItemGroup>
   <ItemGroup>

@@ -53,6 +53,7 @@
   <ItemGroup />
   <ItemGroup>
     <Content Include="Info.txt" />
+    <Content Include="isp.JPG" />
   </ItemGroup>
   <ItemGroup>
     <None Include="ClassDiagramOfISP.cd" />
