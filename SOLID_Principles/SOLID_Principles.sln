@@ -13,6 +13,15 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interface_Segregation", "In
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dependency_Inversion", "Dependency_Inversion\Dependency_Inversion.csproj", "{50AD2226-5694-4280-A3A0-6050A0A9844F}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Images", "Images", "{A623E543-0DDA-43BE-8C60-B1985E5E0469}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\Desktop\dip.JPG = ..\..\..\..\Desktop\dip.JPG
+		..\..\..\..\Desktop\isp.JPG = ..\..\..\..\Desktop\isp.JPG
+		..\..\..\..\Desktop\lsp.JPG = ..\..\..\..\Desktop\lsp.JPG
+		..\..\..\..\Desktop\ocp.JPG = ..\..\..\..\Desktop\ocp.JPG
+		..\..\..\..\Desktop\srp.JPG = ..\..\..\..\Desktop\srp.JPG
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU

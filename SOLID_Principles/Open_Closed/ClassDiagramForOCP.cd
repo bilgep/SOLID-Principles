@@ -4,7 +4,7 @@
     <Position X="0.562" Y="0.5" Height="0.354" Width="2.398" />
   </Comment>
   <Comment CommentText="Open/Closed">
-    <Position X="5.281" Y="0.5" Height="0.354" Width="2.398" />
+    <Position X="6.25" Y="0.5" Height="0.354" Width="2.398" />
   </Comment>
   <Class Name="Open_Closed.AntiOpenClosed.TaxCalculator">
     <Position X="0.75" Y="1" Width="2" />
@@ -14,14 +14,14 @@
     </TypeIdentifier>
   </Class>
   <Class Name="Open_Closed.OpenClosed.TaxCalculator">
-    <Position X="5.5" Y="1" Width="2" />
+    <Position X="6.5" Y="1" Width="2" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>OpenClosed\TaxCalculator.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="Open_Closed.OpenClosed.TaxCalculatorForAustralia">
-    <Position X="3.5" Y="4.5" Width="2" />
+    <Position X="4.5" Y="4.5" Width="2" />
     <TypeIdentifier>
       <HashCode>AAAAAAAACAAAAAAAAAAAAIAAAAIAAAAAAIAAAAAAAAA=</HashCode>
       <FileName>OpenClosed\TaxCalculatorForAustralia.cs</FileName>
@@ -29,7 +29,7 @@
     <Lollipop Position="0.2" />
   </Class>
   <Class Name="Open_Closed.OpenClosed.TaxCalculatorForTurkey">
-    <Position X="5.75" Y="4.5" Width="2" />
+    <Position X="6.75" Y="4.5" Width="2" />
     <TypeIdentifier>
       <HashCode>AAAAAAAACAAAAAAAAAAAAIAAAAIAAAAAAIAAAAAAAAA=</HashCode>
       <FileName>OpenClosed\TaxCalculatorForTurkey.cs</FileName>
@@ -37,7 +37,7 @@
     <Lollipop Position="0.2" />
   </Class>
   <Class Name="Open_Closed.OpenClosed.TaxCalculatorForUK">
-    <Position X="8" Y="4.5" Width="2" />
+    <Position X="9" Y="4.5" Width="2" />
     <TypeIdentifier>
       <HashCode>AAAAAAAACAAAAAAAAAAAAIAAAAIAAAAAAIAAAAAAAAA=</HashCode>
       <FileName>OpenClosed\TaxCalculatorForUK.cs</FileName>
@@ -45,7 +45,7 @@
     <Lollipop Position="0.2" />
   </Class>
   <Interface Name="Open_Closed.OpenClosed.ICountryTaxCalculator">
-    <Position X="5.5" Y="2.25" Width="2" />
+    <Position X="6.5" Y="2.25" Width="2" />
     <TypeIdentifier>
       <HashCode>AAAAAAAACAAAAAAAAAAAAIAAAAIAAAAAAIAAAAAAAAA=</HashCode>
       <FileName>OpenClosed\ICountryTaxCalculator.cs</FileName>
