@@ -1,5 +1,5 @@
 
-# Applied SOLID and Anti-SOLID Principles
+# Applied Anti-SOLID and SOLID Principles
 ### Code Samples and UML Class Diagrams
 -----------
 #### S - Single Responsibility Principle (SRP) <br />
