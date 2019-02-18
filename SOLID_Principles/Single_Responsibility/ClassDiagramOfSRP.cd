@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Comment CommentText="Anti-Single Responsibility (A-SRP)">
+    <Position X="1.26" Y="0.5" Height="0.323" Width="2.492" />
+  </Comment>
+  <Comment CommentText="Single Responsibility (SRP)">
+    <Position X="5.115" Y="0.5" Height="0.323" Width="2.742" />
+  </Comment>
+  <Class Name="Single_Responsibility.AntiSingleResponsibility.Customer">
+    <Position X="1.5" Y="1" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>AntiSingleResponsibility\Customer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Single_Responsibility.AntiSingleResponsibility.CustomerOperations">
+    <Position X="1.5" Y="3.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAAAAAAABAAAAAAAAAAgAAAAIAAAQAA=</HashCode>
+      <FileName>AntiSingleResponsibility\CustomerOperations.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Single_Responsibility.SingleResponsibility.Customer">
+    <Position X="5.5" Y="1" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>SingleReponsibility\Customer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Single_Responsibility.SingleResponsibility.CustomerSearch">
+    <Position X="5.5" Y="3.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAAAAAAABAAAAAAAAAAAAAAAIAAAAAA=</HashCode>
+      <FileName>SingleReponsibility\CustomerSearch.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Single_Responsibility.SingleReponsibility.CustomerExports">
+    <Position X="5.5" Y="5.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAQAA=</HashCode>
+      <FileName>SingleReponsibility\CustomerExports.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Single_Responsibility.SingleReponsibility.ICustomerRespository">
+    <Position X="5.5" Y="2.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SingleReponsibility\ICustomerRespository.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Single_Responsibility.AntiSingleResponsibility.ICustomerRepository">
+    <Position X="1.5" Y="2.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AntiSingleResponsibility\ICustomerRepository.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
