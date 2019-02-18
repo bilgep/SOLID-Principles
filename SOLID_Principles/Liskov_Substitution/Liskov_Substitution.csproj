@@ -41,11 +41,17 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AntiLiskovSubstitution\GuestSetting.cs" />
+    <Compile Include="AntiLiskovSubstitution\ISetting.cs" />
+    <Compile Include="AntiLiskovSubstitution\UserSetting.cs" />
+    <Compile Include="LiskovSubstitution\GuestSetting.cs" />
+    <Compile Include="LiskovSubstitution\IReadableSetting.cs" />
+    <Compile Include="LiskovSubstitution\IWriteableSetting.cs" />
+    <Compile Include="LiskovSubstitution\UserSetting.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="AntiLiskovSubstitution\" />
-    <Folder Include="LiskovSubstitution\" />
+    <None Include="ClassDiagramOfLSP.cd" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Info.txt" />

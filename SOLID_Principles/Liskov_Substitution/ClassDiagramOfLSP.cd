@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Comment CommentText="Anti Liskov Substitution">
+    <Position X="0.5" Y="0.5" Height="0.469" Width="4.856" />
+  </Comment>
+  <Comment CommentText="Liskov Substitution">
+    <Position X="6.76" Y="0.5" Height="0.479" Width="5.127" />
+  </Comment>
+  <Class Name="Liskov_Substitution.AntiLiskovSubstitution.GuestSetting">
+    <Position X="0.75" Y="3" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAA=</HashCode>
+      <FileName>AntiLiskovSubstitution\GuestSetting.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Liskov_Substitution.AntiLiskovSubstitution.UserSetting">
+    <Position X="3" Y="3" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAA=</HashCode>
+      <FileName>AntiLiskovSubstitution\UserSetting.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Liskov_Substitution.LiskovSubstitution.UserSetting">
+    <Position X="9.5" Y="3" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAA=</HashCode>
+      <FileName>LiskovSubstitution\UserSetting.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Liskov_Substitution.LiskovSubstitution.GuestSetting">
+    <Position X="7.25" Y="3" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>LiskovSubstitution\GuestSetting.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="Liskov_Substitution.AntiLiskovSubstitution.ISetting">
+    <Position X="1.5" Y="1.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAA=</HashCode>
+      <FileName>AntiLiskovSubstitution\ISetting.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Liskov_Substitution.LiskovSubstitution.IReadableSetting">
+    <Position X="7.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>LiskovSubstitution\IReadableSetting.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Liskov_Substitution.LiskovSubstitution.IWriteableSetting">
+    <Position X="9.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAA=</HashCode>
+      <FileName>LiskovSubstitution\IWriteableSetting.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
