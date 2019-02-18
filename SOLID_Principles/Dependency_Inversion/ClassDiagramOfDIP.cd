@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Comment CommentText="Anti Dependency Inversion">
+    <Position X="0.5" Y="0.5" Height="0.479" Width="4.377" />
+  </Comment>
+  <Comment CommentText="Dependency Inversion">
+    <Position X="7.156" Y="0.5" Height="0.479" Width="5.002" />
+  </Comment>
+  <Class Name="Dependency_Inversion.AntiDependecyInversion.UserManager">
+    <Position X="1.75" Y="2.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AntiDependecyInversion\UserManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dependency_Inversion.AntiDependecyInversion.EmailNotifier">
+    <Position X="0.75" Y="1.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAA=</HashCode>
+      <FileName>AntiDependecyInversion\EmailNotifier.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dependency_Inversion.AntiDependecyInversion.SmsNotifier">
+    <Position X="2.75" Y="1.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAA=</HashCode>
+      <FileName>AntiDependecyInversion\SmsNotifier.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dependency_Inversion.DependencyInversion.SmsNotifier">
+    <Position X="7.75" Y="2.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAA=</HashCode>
+      <FileName>DependencyInversion\SmsNotifier.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Dependency_Inversion.DependencyInversion.EmailNotifier">
+    <Position X="9.75" Y="2.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAA=</HashCode>
+      <FileName>DependencyInversion\EmailNotifier.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Dependency_Inversion.DependencyInversion.UserManager">
+    <Position X="7.75" Y="4" Width="3.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DependencyInversion\UserManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Dependency_Inversion.DependencyInversion.INotifier">
+    <Position X="8.5" Y="1.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAA=</HashCode>
+      <FileName>DependencyInversion\INotifier.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

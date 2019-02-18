@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Comment CommentText="Anti Interface Segregation">
+    <Position X="0.5" Y="0.5" Height="0.458" Width="4.908" />
+  </Comment>
+  <Comment CommentText="Interface Segregation">
+    <Position X="6.615" Y="0.5" Height="0.458" Width="5.596" />
+  </Comment>
+  <Class Name="Interface_Segregation.AntiInterfaceSegregation.CashOnDeliveryOrderProcess">
+    <Position X="0.5" Y="3" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>AntiInterfaceSegregation\CashOnDeliveryOrderProcess.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Interface_Segregation.AntiInterfaceSegregation.OnlineOrderProcess">
+    <Position X="2.75" Y="3" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>AntiInterfaceSegregation\OnlineOrderProcess.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Interface_Segregation.InterfaceSegregation.CashOnDeliveryOrderProcess">
+    <Position X="7.25" Y="3" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>InterfaceSegregation\CashOnDeliveryOrderProcess.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Interface_Segregation.InterfaceSegregation.OnlineOrderProcess">
+    <Position X="9.75" Y="3" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAQAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>InterfaceSegregation\OnlineOrderProcess.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="Interface_Segregation.AntiInterfaceSegregation.IOrderProcess">
+    <Position X="1.75" Y="1.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>AntiInterfaceSegregation\IOrderProcess.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Interface_Segregation.InterfaceSegregation.IOnlineOrderProcess">
+    <Position X="7.5" Y="1.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>InterfaceSegregation\IOnlineOrderProcess.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Interface_Segregation.InterfaceSegregation.IOrderProcess">
+    <Position X="9.75" Y="1.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>InterfaceSegregation\IOrderProcess.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

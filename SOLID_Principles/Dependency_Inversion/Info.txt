@@ -1,0 +1,3 @@
+﻿Dependency Inversion Principle:
+- High-level classes (a class that does something significant in the application) should not dependent on low-level classes (a class that does some auxiliary work). Both of them should depend on abstractions
+- Abstractions should not depend upon details. Details should depend upon abstractions

@@ -1,1 +1,1 @@
-﻿Liskov Substitution Principle: A type must be substitutable by its subtypes without altering the correctness of the application
+﻿Liskov Substitution Principle: A type must be substitutable by its subtypes without altering the correctness of the application. If B is a subtype of A, then objects of type B may be replaced with objects of type A.

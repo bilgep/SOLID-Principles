@@ -1,0 +1,1 @@
+﻿Interface Segregation Principle: Clients of a class should not be forced to depend on those of its methods that they don’t use
