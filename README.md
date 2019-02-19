@@ -10,19 +10,19 @@ A class should have only a single responsibility.<br /><br />
 
 #### O - Open/Closed Principle (OCP) <br />
 A class should be open for extension but closed for modification. <br /><br />
-![srp](https://github.com/BilgesPage/SOLID-Principles/blob/master/SOLID_Principles/Open_Closed/ocp.JPG?raw=true "Open/Closed Principle")
+![ocp](https://github.com/BilgesPage/SOLID-Principles/blob/master/SOLID_Principles/Open_Closed/ocp.JPG?raw=true "Open/Closed Principle")
 
 -----
 
 #### L - Liskov’s Substitution Principle (LSP) <br />
 A type must be substitutable by its subtypes without altering the correctness of the application. <br /><br />
-![srp](https://github.com/BilgesPage/SOLID-Principles/blob/master/SOLID_Principles/Liskov_Substitution/lsp.JPG?raw=true "Liskov's Substitution Principle")
+![lsp](https://github.com/BilgesPage/SOLID-Principles/blob/master/SOLID_Principles/Liskov_Substitution/lsp.JPG?raw=true "Liskov's Substitution Principle")
 
 ----
 
 #### I - Interface Segregation Principle (ISP) <br />
 Clients of a class should not be forced to depend on those of its methods that they don’t use.<br /><br />
-![srp](https://github.com/BilgesPage/SOLID-Principles/blob/master/SOLID_Principles/Interface_Segregation/isp.JPG?raw=true "Interface Segregation Principle")
+![isp](https://github.com/BilgesPage/SOLID-Principles/blob/master/SOLID_Principles/Interface_Segregation/isp.JPG?raw=true "Interface Segregation Principle")
 
 -----
 
@@ -30,7 +30,7 @@ Clients of a class should not be forced to depend on those of its methods that t
 High-level classes should not dependent on low-level classes. Both of them should depend on abstractions.<br />
 Abstractions should not depend upon details. Details should depend upon
 abstractions.<br />
-![srp](https://github.com/BilgesPage/SOLID-Principles/blob/master/SOLID_Principles/Dependency_Inversion/dip.JPG?raw=true "Dependency Inversion Principle")
+![dip](https://github.com/BilgesPage/SOLID-Principles/blob/master/SOLID_Principles/Dependency_Inversion/dip.JPG?raw=true "Dependency Inversion Principle")
 
 --------
 
