@@ -45,8 +45,10 @@ abstractions.<br />
 <br /><br /><br /><br /><br /><br /><br /><br />
 
 -------------
-Resources
+
+##### Resources
 
 _Beginning SOLID Principles and Design Patterns for ASP.NET Developers - Bipin Joshi_
+
 --------------
 By @BilgesPage
